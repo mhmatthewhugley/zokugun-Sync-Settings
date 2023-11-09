@@ -1,4 +1,60 @@
 disabled: []
 enabled:
+  - id: aaron-bond.better-comments
+    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
+  - id: abusaidm.html-snippets
+    uuid: be992f3f-9f22-4b66-a1d2-ecad04c28a28
+  - id: alefragnani.project-manager
+    uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
+  - id: anseki.vscode-color
+    uuid: 37d7747f-e652-4eac-83de-f2939f7e2121
+  - id: CoenraadS.bracket-pair-colorizer-2
+    uuid: 5a6e2b21-1d61-4acd-b31b-907f9c23f18a
+  - id: donjayamanne.githistory
+    uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: formulahendry.auto-close-tag
+    uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
+  - id: formulahendry.auto-rename-tag
+    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: ionutvmi.path-autocomplete
+    uuid: 0d1241e3-fa60-4f24-8f2a-6d7085677c48
+  - id: kamikillerto.vscode-colorize
+    uuid: 445ba381-f232-4150-9056-d790bd76d698
+  - id: mathiassoeholm.markdown-link-updater
+    uuid: 768b2e6a-0ab7-4e10-9ffa-39165e9d1f0d
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: oderwat.indent-rainbow
+    uuid: eaa2127d-cb69-4ab9-8505-a60c9ee5f28b
+  - id: pranaygp.vscode-css-peek
+    uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
+  - id: PROxZIMA.sweetdracula
+    uuid: c499a94d-a1f3-4d95-8284-985e07034bea
+  - id: robole.markdown-snippets
+    uuid: 3bf5bc6c-8041-42d8-a272-77b5b6b7f664
+  - id: robole.marky-dynamic
+    uuid: e09427f7-cfc5-427e-8cc3-105e65334171
+  - id: robole.marky-edit
+    uuid: de170253-0764-4f8b-b964-d91f8d13e7ac
+  - id: robole.marky-markdown
+    uuid: 626f312c-84f9-42e2-a880-afd6a6b6417e
+  - id: robole.marky-stats
+    uuid: 88b68eeb-8718-4a31-ab0a-cddb7c17c588
+  - id: skn0tt.markdown-link-expander
+    uuid: 488480ef-729c-4ece-befa-43b51ac75cae
+  - id: SPGoding.datapack-language-server
+    uuid: e292445f-672b-4c42-bb71-510fb88fcf8e
+  - id: techer.open-in-browser
+    uuid: fef63133-dae3-40fb-b81d-6da7617b4b1e
+  - id: xabikos.JavaScriptSnippets
+    uuid: a2cec723-5349-460d-9de9-0fd1f8d3456f
+  - id: yandeu.five-server
+    uuid: a18a6705-5a6a-4e14-a4a7-3efa6b7647d5
+  - id: zaaack.markdown-editor
+    uuid: d1d5603c-2be4-4f1b-b7b6-d7e908a8ad73
   - id: zokugun.cron-tasks
     uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
