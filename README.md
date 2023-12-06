@@ -7,3 +7,5 @@ editor.defaultFormatter
 editor.linkedEditing
 \
 projectManager.git.baseFolders
+
+Check Password Manager for SSH stuff.
