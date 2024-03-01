@@ -8,4 +8,4 @@ editor.linkedEditing (Enabled)
 \
 projectManager.git.baseFolders (C:\Users\Admin\Documents\VSCodium)
 
-Check Password Manager for SSH stuff including setup commands.
+Check Password Manager for SSH stuff, includes setup commands.
