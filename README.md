@@ -2,7 +2,7 @@
 
 Settings that have been changed since the last Backup.
 \
-editor.defaultFormatter
+editor.defaultFormatter (Prettier - Code Formatter) (esbenp.prettier-vscode)
 \
 editor.linkedEditing
 \
