@@ -6,6 +6,6 @@ editor.defaultFormatter (Prettier - Code Formatter) (esbenp.prettier-vscode)
 \
 editor.linkedEditing (Enabled)
 \
-projectManager.git.baseFolders
+projectManager.git.baseFolders (C:\Users\Admin\Documents\VSCodium)
 
 Check Password Manager for SSH stuff.
