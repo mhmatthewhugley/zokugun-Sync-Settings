@@ -35,3 +35,7 @@ editor.linkedEditing (Enabled)
 projectManager.git.baseFolders (C:\Users\Admin\Documents\VSCodium)
 
 Check Password Manager for SSH stuff, includes setup commands.
+
+"terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe"
+
+"terminal.integrated.defaultProfile.windows": "Git Bash"
